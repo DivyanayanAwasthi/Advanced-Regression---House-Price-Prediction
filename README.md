@@ -64,7 +64,9 @@ Some of the factors which reduces a decrease in sales price are:
 - NumPy 
 - Seaborn 
 - MatplotLib 
-- Missingno
+- Linear Regression
+- Lasso Regression
+- Ridge Regression
 
 ## Acknowledgements
 
